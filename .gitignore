@@ -1,13 +1,5 @@
 # Model files
-*.h5
-*.hdf5
-*.pkl
-*.pth
-*.pt
-*.onnx
-*.pb
-*.tflite
-*.weights
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -18,13 +10,7 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Data files
-*.csv
-*.xlsx
-*.xls
-*.json
-*.npy
-*.npz
-*.parquet
+
 
 # Virtual environments
 venv/
